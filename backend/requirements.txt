@@ -42,7 +42,7 @@ email-validator==2.1.0.post1
 transformers==4.46.3
 tokenizers==0.20.3
 huggingface-hub==0.26.2
-safetensors==0.4.5
+safetensors==0.8.0
 
 # Utilities / test HTTP client
 tqdm==4.66.5
