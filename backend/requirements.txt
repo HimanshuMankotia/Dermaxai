@@ -41,7 +41,7 @@ email-validator==2.1.0.post1
 # NLP / BioBERT (optional runtime capability; rule-based engine is default)
 transformers==4.46.3
 tokenizers==0.20.3
-huggingface-hub==0.26.2
+huggingface-hub==2.4.0
 safetensors==0.4.5
 
 # Utilities / test HTTP client
